@@ -1,0 +1,35 @@
+
+   
+
+body{
+    background-color:pink;
+    
+}
+h1 {
+    color:MediumVioletRed;
+    font-family: 'Spirax', cursive;
+    font-size:80px;
+    background-color:lightpink;
+    text-align:center;
+    font-weight: 100;
+}
+h2{
+    color:MediumVioletRed;
+    font-family:'Source Code Pro', monospace;
+    background-color:lightpink;
+}
+h3 {
+    color:MediumOrchid;
+    font-family: 'Space Mono', monospace;
+}
+img {
+    zoom:25%;
+    border:50px groove magenta;
+    border-radius:180px; 
+    
+}
+html{
+    display:flex;
+    justify-content:center;
+}
+ 
